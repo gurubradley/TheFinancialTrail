@@ -1,0 +1,19 @@
+{
+  "name": "thefinancialtrail",
+  "version": "1.0.0",
+  "description": "the financial trail game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TheFinancialTrail"
+  },
+  "keywords": [
+    "game",
+    "thefinancialtrail"
+  ],
+  "author": "Bradley Freeman",
+  "license": "MIT"
+}
