@@ -3,17 +3,31 @@
   "version": "1.0.0",
   "description": "the financial trail game",
   "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "TheFinancialTrail"
+    "url": "git+https://github.com/gurubradley/TheFinancialTrail.git"
   },
   "keywords": [
     "game",
-    "thefinancialtrail"
+    "financial",
+    "trail"
   ],
   "author": "Bradley Freeman",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gurubradley/TheFinancialTrail/issues"
+  },
+  "homepage": "https://github.com/gurubradley/TheFinancialTrail#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "webpack-dev-server": "^2.9.4"
+  }
 }
